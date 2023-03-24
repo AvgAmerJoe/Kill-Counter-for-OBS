@@ -26,8 +26,8 @@ h2 {
     font-size: 100px;
     margin-top: 0;
     margin-bottom: 20px;
-    Color: black;
-    border: 5px solid Red;
+    Color: black (background: Red);
+    
     
     
 }
